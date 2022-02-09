@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.edu.agh.kis.pz1.readers_writers"},{"l":"pl.edu.agh.kis.pz1.readers_writers.clients"},{"l":"pl.edu.agh.kis.pz1.readers_writers.commons"},{"l":"pl.edu.agh.kis.pz1.readers_writers.manager"},{"l":"pl.edu.agh.kis.pz1.readers_writers.reading_room"}];updateSearchResults();
